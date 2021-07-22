@@ -1,5 +1,7 @@
 # BaekJoon-Code-Extractor
 지금까지 제출한 백준 "맞았습니다" 코드를 추출하는 프로그램 입니다.
+![image](https://user-images.githubusercontent.com/31213158/126604636-7b4bb754-5328-4721-a0af-c3ccac8a0c0a.png)
+
 
 # 작동 방식
 * ID와 로그인 쿠키값을 제공받고 그 ID에 해당하는 맞았습니다 페이지로 이동해 현재 페이지의 지금까지 맞은 코드를 전부 추출합니다.
