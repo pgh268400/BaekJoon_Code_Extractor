@@ -1,5 +1,6 @@
 # BaekJoon-Code-Extractor
-지금까지 제출한 백준 "맞았습니다" 코드를 추출하는 프로그램 입니다.
+지금까지 제출한 백준 "맞았습니다" 코드를 추출하는 프로그램 입니다.  
+2021년을 기준으로 제대로 작동하는 백준 코드 추출기가 없어서 만들었습니다.
 ![image](https://user-images.githubusercontent.com/31213158/126604636-7b4bb754-5328-4721-a0af-c3ccac8a0c0a.png)
 
 
