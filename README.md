@@ -17,18 +17,17 @@
 
 # Requirements
 ```python
-pip install beautifulsoup4
-pip install requirements
+pip install -r requirements
 ```
 
 사용전 위의 라이브러리를 설치 해주세요.
 
 # How to Use
 ```python
-python3 main.py
+python main.py
 ```
-위 명령어로 프로그램을 실행하시면 백준 ID와 쿠키값 "OnlineJudge" 를 요구합니다.
-ID는 백준 ID를 입력하시면 되겠으며 쿠키값의 경우에는 우선 백준에 가서 로그인을 하신 후 F12를 눌러 크롬 개발자 콘솔을 엽니다.
+위 명령어로 프로그램을 실행하시면 백준 ID와 쿠키값 `OnlineJudge` 를 요구합니다.
+ID는 백준 ID를 입력하시면 되겠으며 쿠키값의 경우에는 우선 백준에 가서 로그인을 하신 후 `F12`를 눌러 크롬 개발자 콘솔을 엽니다.
 
 ![image](https://user-images.githubusercontent.com/31213158/126604177-c4bc0656-893b-44c6-afae-7b10ee271a9a.png)
 
